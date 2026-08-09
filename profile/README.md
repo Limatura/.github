@@ -1,8 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/Limatura/.github/raw/main/profile/logo-dark.svg">
-  <img src="https://github.com/Limatura/.github/raw/main/profile/logo-light.svg"
-       width="220" alt="Limatura">
+  <source media="(prefers-color-scheme: dark)" srcset="limatura-lockup-dark.svg">
+  <img src="limatura-lockup-light.svg" width="220" alt="Limatura">
 </picture>
 
 <br><br>
