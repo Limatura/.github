@@ -1,2 +1,2 @@
 # .github
-Limatura Intro
+Organization profile
