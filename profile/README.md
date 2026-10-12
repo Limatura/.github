@@ -14,6 +14,7 @@ We're a small team building open-source tools, starting with things we'd want to
 ## Projects
 
 - **[Tessera](https://github.com/Limatura/tessera)** — A self-hosted file and note sharing service. Share with a retrieval code, set expiry and retrieval limits, and keep control of your own instance. Tessera also includes a code editor, content previews and rendering for supported formats, charts, and customizable Open Graph metadata.
+- **[Tessera Docs](https://github.com/Limatura/tessera-docs)** — Documentation for installing, configuring, and using Tessera.
 
 ## How we build
 
