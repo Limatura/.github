@@ -5,20 +5,18 @@
 
 <br><br>
 
-**Limatura** — Latin: the filings left behind when a surface is worked down.
-From Horace's *limae labor*, "the work of the file" — the slow removal that
-turns something made into something finished.
+**Limatura** — Latin for the filings left behind when a surface is worked down.
 
-Two people. Self-hosted tools, built small and kept sharp.
+The name comes from Horace's *limae labor* — “the work of the file”: the patient work of refining something until it is finished. It reflects how we like to build software, too: start with a real problem, shape a useful solution, and keep refining it by removing what it doesn't need.
 
-### Projects
+We're a small team building open-source tools, starting with things we'd want to use ourselves.
 
-| | |
-| --- | --- |
-| **[tessera](https://github.com/Limatura/tessera)** | Anonymous file drops, claimed with a code, gone when you say. Single binary, self-hosted. |
+## Projects
 
-### How we build
+- **[Tessera](https://github.com/Limatura/tessera)** — A self-hosted file and note sharing service. Share with a retrieval code, set expiry and retrieval limits, and keep control of your own instance. Tessera also includes a code editor, content previews and rendering for supported formats, charts, and customizable Open Graph metadata.
 
-- Self-hosted first — your data stays on your machine
-- One binary, no runtime to install
-- Prefer removing over adding
+## How we build
+
+- Self-hosted first.
+- Keep deployment simple.
+- Prefer removing over adding.
